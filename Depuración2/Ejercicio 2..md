@@ -38,4 +38,4 @@ A més , la classe Principal té el mètode:
 ### 3. Posad un punt de ruptura (breakpoint) en la línia 46 del mètode main de la classe Principal i esbrineu els valors de les variables velocitat_nueva1, velocitat_nueva2 i velocitat_nueva3. Esbrineu també quines dades tenen en els seus paràmetres els cotxes amb variables c,c2 i c3.
 
 > ![](est2.png)
-> ![](estadisticas3.png)
+> ![](est3.png)
